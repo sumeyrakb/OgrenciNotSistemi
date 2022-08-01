@@ -1,6 +1,6 @@
 ## Patika.dev Java101 > Pratik - Öğrenci Bilgi Sistemi
 
-# Öğrenci Not Sistemi
+# Öğrenci Not Sistemi Ödev
 
 Course Sınıfı Özellikleri :
 
