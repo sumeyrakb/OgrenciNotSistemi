@@ -22,3 +22,5 @@ Course sınıfına derse ait sözlü notu kısmını girin ve ortalamaya etkisin
 Öğrenci sözlüden 90, sınavdan 60 almış ise, o dersin genel ortalamaya etkisi şu şekilde hesaplanır :
 
 Fizik Ortalaması : (90 * 0.20) + (60* 0.80);
+
+[PatikaDev - Odev Video](https://app.patika.dev/courses/java101/pratik-obs)
